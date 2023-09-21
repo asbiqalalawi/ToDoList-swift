@@ -61,10 +61,10 @@
 		043413E72AB54D0A0024218B /* TodoList */ = {
 			isa = PBXGroup;
 			children = (
+				043413E82AB54D0A0024218B /* TodoListApp.swift */,
 				043413FD2AB6FDD90024218B /* Models */,
 				04C0E0D52AB88A1D00AE7A43 /* ViewModels */,
 				043413F62AB54D7B0024218B /* Views */,
-				043413E82AB54D0A0024218B /* TodoListApp.swift */,
 				043413EC2AB54D0B0024218B /* Assets.xcassets */,
 				043413EE2AB54D0B0024218B /* Preview Content */,
 			);
